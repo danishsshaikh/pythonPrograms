@@ -1,8 +1,8 @@
 import cmath
 
-a = 1
-b = 5
-c = 6
+a = int(input('Enter First Number'))
+b = int(input('Enter Second Number'))
+c = int(input('Enter Third Number'))
 
 d = (b**2) - (4*a*c)
 
