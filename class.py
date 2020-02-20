@@ -4,6 +4,6 @@ class Computer:
 
 com1 = Computer()
 
-Computer.config(com1)
-print("What?")
-com1.config()
+#Computer.config(com1)
+#print("What?")
+#com1.config()
